@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: c07123303587c474884bdd36855bed0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box003
+    100002: Cylinder006
+    100004: Cylinder007
+    100006: Cylinder01
+    100008: Cylinder011
+    100010: Cylinder014
+    100012: //RootNode
+    100014: Object001
+    400000: Box003
+    400002: Cylinder006
+    400004: Cylinder007
+    400006: Cylinder01
+    400008: Cylinder011
+    400010: Cylinder014
+    400012: //RootNode
+    400014: Object001
+    2100000: golden-p
+    2100002: 'Material #22'
+    2100004: 10 - Default
+    2100006: etiket
+    2100008: 'Material #21'
+    2100010: 09 - Default
+    2100012: Extinguisher
+    2100014: 'Material #25'
+    2300000: Box003
+    2300002: Cylinder006
+    2300004: Cylinder007
+    2300006: Cylinder01
+    2300008: Cylinder011
+    2300010: Cylinder014
+    2300012: Object001
+    2300014: //RootNode
+    3300000: Box003
+    3300002: Cylinder006
+    3300004: Cylinder007
+    3300006: Cylinder01
+    3300008: Cylinder011
+    3300010: Cylinder014
+    3300012: Object001
+    3300014: //RootNode
+    4300000: Cylinder006
+    4300002: Cylinder007
+    4300004: Cylinder011
+    4300006: Object001
+    4300008: Box003
+    4300010: Cylinder014
+    4300012: Cylinder01
+    4300014: Extinguisher
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 80d4517126c9cb44983be71ce883efa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 7b56a8cd6b6d4c245a9ad3c751c9fab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extinguisher
+    second: {fileID: 2100000, guid: 5774394877d5d994e9281d44424f5711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #21'
+    second: {fileID: 2100000, guid: 528bd26d195458545b9b2ac1b28a97e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #22'
+    second: {fileID: 2100000, guid: 1dbf9db0557a0914082a317a3e00b8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etiket
+    second: {fileID: 2100000, guid: 283e92918f9f0d74ab32e8d63e7febaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: golden-p
+    second: {fileID: 2100000, guid: 6a32a5dc6715202439abda062f6b4694, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
