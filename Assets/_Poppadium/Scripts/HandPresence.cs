@@ -43,7 +43,9 @@ public class HandPresence : MonoBehaviour
 
         foreach (var item in devices)
         {
-            Debug.Log(item.name + item.characteristics);
+            Debug.Log("name and character"+item.name + item.characteristics);
+            Debug.Log("How many device is connected" + devices.Count);
+            Debug.Log("The name of the device is " +devices[0].name);
         }
 
         if (devices.Count > 0)
